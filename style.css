@@ -2,11 +2,13 @@
     margin: 0;
     padding: 0;
     text-align: center;
+    background-color: #F3EDC8;
+    color: #BF3131;
   }
   
   h1 {
-    background-color: #081b31;
-    color: #fff;
+    background-color: #EAD196;
+    color: #7D0A0A;
     height: 5rem;
     line-height: 5rem;
   }
@@ -59,8 +61,8 @@
   }
   
   #msg {
-    background-color: #081b31;
-    color: #fff;
+    background-color: #EAD196;
+    color: white;
     font-size: 2rem;
     display: inline;
     padding: 1rem;
